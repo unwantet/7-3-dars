@@ -4,7 +4,7 @@ export default  [
     amount: 1,
     title: "iPhone 9",
     description: "An apple mobile which is nothing like apple",
-    price: 549,
+    price: 600,
     discountPercentage: 12.96,
     rating: 4.69,
     stock: 94,
